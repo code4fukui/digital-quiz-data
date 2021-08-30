@@ -1,4 +1,4 @@
-# digital-quiz
+# digital-quiz-data
 
 ## CSV
 
