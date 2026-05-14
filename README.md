@@ -1,17 +1,25 @@
 # digital-quiz-data
 
-## CSV
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-[list.csv](list.csv)
+This repository contains CSV data for web-based digital learning quizzes.
 
-## サンプルアプリ
+## Demo
 
+A sample application that uses this data is available at:
 https://github.com/code4fukui/digital-quiz/
 
-## 履歴
+## Data Structure
 
-- 2021-08-31 令和3年度春期、応用情報技術者試験（AP）から、5問、転記
+The main index file, [list.csv](list.csv), contains a list of all available quiz data files.
 
-## 出典
+The initial dataset, `ap-2021spring.csv`, includes 5 questions transcribed from the Spring 2021 Applied Information Technology Engineer Examination (AP).
 
-[IPA 独立行政法人 情報処理推進機構：問題冊子・配点割合・解答例・採点講評（2021、令和3年4月）](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2021r03.html)
+## Source
+
+The data is sourced from:
+[IPA (Information-technology Promotion Agency, Japan): Question booklet, scoring breakdown, answer examples, and scoring commentary (2021, Reiwa 3 (2021), April)](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2021r03.html)
+
+## License
+
+MIT License — see [LICENSE](LICENSE).
